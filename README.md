@@ -1,1 +1,1 @@
-# ak-ll--otob-s-plan-
+# Akıllı Erişilebilir Otobüs Planı, tekerlekli sandalye kullanıcıları için otomatik rampa ve sabitleme sistemlerini, görme engelliler için kabartmalı yönlendirme şeritleri ve sesli anons sistemlerini, duyma engelliler için ise görsel durak bildirim sistemleri ve iletişim yardımcılarını tek bir çatı altında toplayarak teknolojiyi ve evrensel tasarım ilkelerini bir araya getiren kapsayıcı bir ulaşım deneyimi sunmaktadır.
